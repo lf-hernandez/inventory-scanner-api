@@ -63,7 +63,7 @@ requests==2.31.0
 rsa==4.7
 Rx==1.6.1
 six==1.15.0
-starlette==0.13.6
+starlette==0.36.2
 toml==0.10.2
 typed-ast==1.4.2
 typing-extensions==3.7.4.3
